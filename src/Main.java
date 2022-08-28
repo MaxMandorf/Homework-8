@@ -43,5 +43,6 @@ public class Main {
             result = (Math.abs((distance - start) / step) + 2);
         }
         System.out.println("Потребуется дней для доставки " + result);
+
     }
 }
